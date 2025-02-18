@@ -26,7 +26,7 @@ const router = createBrowserRouter(
     </Route>
   ),
   {
-    basename : '/Digital-CLock-Application'
+    basename : '/Digital-Clock-Application'
   }
 )
 
